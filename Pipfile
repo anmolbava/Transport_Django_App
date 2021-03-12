@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "*"
+psycopg2 = "*"
+gunicorn = "*"
+django-crispy-forms = "*"
+pillow = "*"
+argon2-cffi = "*"
+requests = "*"
+django-heroku = "*"
+
+[requires]
+python_version = "3.5"
