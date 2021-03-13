@@ -1,6 +1,6 @@
 # travelapp
 
-Travel App - Developed for Jan 2020
+Travel App - 
 
 Multirole Application
 
